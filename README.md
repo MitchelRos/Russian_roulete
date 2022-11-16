@@ -1,7 +1,7 @@
 # Russian_roulete
 
-# ATENCION !
-## SE REQUIERE QUE SE EJECUTE EN MODO ADMINISTRADOR
+## ATENCION !
+### SE REQUIERE QUE SE EJECUTE EN MODO ADMINISTRADOR
 -------------------------------------------------------
-## REQUISITOS
+#### REQUISITOS
  · Python
