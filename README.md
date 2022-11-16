@@ -9,9 +9,9 @@
 
 ### REQUISITOS
 
-· SE REQUIERE QUE SE EJECUTE EN MODO ADMINISTRADOR
-
-· Python
+- SE REQUIERE QUE SE EJECUTE EN MODO ADMINISTRADOR
+- Python
 -------------------------------------------------------
+
 ### Que te diviertas!! 
 # 😈
